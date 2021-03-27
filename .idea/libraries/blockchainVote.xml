@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="blockchainVote">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Blockchain-E-Voting-main/blockchainVote.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

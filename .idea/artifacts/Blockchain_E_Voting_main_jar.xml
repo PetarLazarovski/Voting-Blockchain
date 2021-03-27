@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Blockchain-E-Voting-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Blockchain_E_Voting_main_jar</output-path>
+    <root id="archive" name="Blockchain-E-Voting-main.jar">
+      <element id="module-output" name="Blockchain-E-Voting-main" />
+    </root>
+  </artifact>
+</component>
